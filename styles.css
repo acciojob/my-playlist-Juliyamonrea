@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+*{
+	background-color: rgb(204, 204, 204);
+	text-align:center;
+}
